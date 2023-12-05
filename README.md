@@ -73,7 +73,7 @@ SOFTWARE.
 
 - **Footer:** A footer section displaying the company name, creation details, and a heartfelt message.
 
-## Contributing
+## Contribution
 
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature/your-feature-name).
