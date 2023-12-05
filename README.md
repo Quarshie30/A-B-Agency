@@ -26,8 +26,8 @@ In order to install the development environment:
 7. Once completed open the folder by "code .." which should open visual studio 
 
 ## Usage 
-Navigation tab can be found at the top right hand corner listing all necessary headings see screenshot : ![alt text](assets/images/screenshots/1.png)
-Main body content and information: ![alt text](assets/images/screenshots/2.png)
+Navigation tab can be found at the top right hand corner listing all necessary headings see screenshot : ![alt text](assets/images/Screenshots/1.png)
+Main body content and information: ![alt text](assets/images/Screenshots/2.png)
 
 ## Credits
 
