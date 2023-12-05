@@ -87,7 +87,3 @@ SOFTWARE.
 3. Commit your changes (git commit -m 'Add some feature').
 4. Push to the branch (git push origin feature/your-feature-name).
 5. Open a pull request.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
