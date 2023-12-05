@@ -26,13 +26,8 @@ In order to install the development environment:
 7. Once completed open the folder by "code .." which should open visual studio 
 
 ## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-Navigation tab can be found at the top right hand corner listing all necessary headings see screenshot : ![alt text](assets/images/screenshot/1.png)
-Main body content and information: ![alt text](assets/images/screenshot/2.png)
+Navigation tab can be found at the top right hand corner listing all necessary headings see screenshot : ![alt text](assets/images/screenshots/1.png)
+Main body content and information: ![alt text](assets/images/screenshots/2.png)
 
 ## Credits
 
