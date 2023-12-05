@@ -1,4 +1,4 @@
-# Your Project Title
+# Horieson Webpage
 
 ## Introduction
 
@@ -12,7 +12,7 @@ The Horiseon website is designed to highlight the key services offered by Horise
 * [Credits](#credits)
 * [License](#license)
 * [Features](#Features)
-
+* [Contribution](#Contribution)
 
 ## Installation
 
@@ -31,10 +31,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+Navigation tab can be found at the top right hand corner listing all necessary headings see screenshot : ![alt text](assets/images/screenshot/1.png)
+Main body content and information: ![alt text](assets/images/screenshot/2.png)
 
 ## Credits
 
